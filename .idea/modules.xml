@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/../java_project/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Args/Args.iml" filepath="$PROJECT_DIR$/../java_project/Args/Args.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Array/Array.iml" filepath="$PROJECT_DIR$/../java_project/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/../java_project/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/ByteStream/ByteStream.iml" filepath="$PROJECT_DIR$/../java_project/ByteStream/ByteStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS_Demo/CSS_Demo.iml" filepath="$PROJECT_DIR$/CSS_Demo/CSS_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Calendar/Calendar.iml" filepath="$PROJECT_DIR$/../java_project/Calendar/Calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/CharStream/CharStream.iml" filepath="$PROJECT_DIR$/../java_project/CharStream/CharStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Collection/Collection.iml" filepath="$PROJECT_DIR$/../java_project/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Collections/Collections.iml" filepath="$PROJECT_DIR$/../java_project/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Date/Date.iml" filepath="$PROJECT_DIR$/../java_project/Date/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Digui/Digui.iml" filepath="$PROJECT_DIR$/../java_project/Digui/Digui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/DuoTai/DuoTai.iml" filepath="$PROJECT_DIR$/../java_project/DuoTai/DuoTai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Exception/Exception.iml" filepath="$PROJECT_DIR$/../java_project/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Extends/Extends.iml" filepath="$PROJECT_DIR$/../java_project/Extends/Extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/File/File.iml" filepath="$PROJECT_DIR$/../java_project/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/FunctionalInterace/FunctionalInterace.iml" filepath="$PROJECT_DIR$/../java_project/FunctionalInterace/FunctionalInterace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Generic/Generic.iml" filepath="$PROJECT_DIR$/../java_project/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/../java_project/InnerClass/InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Integer/Integer.iml" filepath="$PROJECT_DIR$/../java_project/Integer/Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Interface/Interface.iml" filepath="$PROJECT_DIR$/../java_project/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/../java_project/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/../java_project/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/List/List.iml" filepath="$PROJECT_DIR$/../java_project/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Map/Map.iml" filepath="$PROJECT_DIR$/../java_project/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Math/Math.iml" filepath="$PROJECT_DIR$/../java_project/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/MethodReference/MethodReference.iml" filepath="$PROJECT_DIR$/../java_project/MethodReference/MethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Net/Net.iml" filepath="$PROJECT_DIR$/../java_project/Net/Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Object/Object.iml" filepath="$PROJECT_DIR$/../java_project/Object/Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/OtherStream/OtherStream.iml" filepath="$PROJECT_DIR$/../java_project/OtherStream/OtherStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Set/Set.iml" filepath="$PROJECT_DIR$/../java_project/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/SimpleDateFormat/SimpleDateFormat.iml" filepath="$PROJECT_DIR$/../java_project/SimpleDateFormat/SimpleDateFormat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Stream/Stream.iml" filepath="$PROJECT_DIR$/../java_project/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/String/String.iml" filepath="$PROJECT_DIR$/../java_project/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/StudentManager/StudentManager.iml" filepath="$PROJECT_DIR$/../java_project/StudentManager/StudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/System/System.iml" filepath="$PROJECT_DIR$/../java_project/System/System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/Thread/Thread.iml" filepath="$PROJECT_DIR$/../java_project/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../algorithm/algorithm.iml" filepath="$PROJECT_DIR$/../algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/com.java_zhaohan/com.java_zhaohan.iml" filepath="$PROJECT_DIR$/../java_project/com.java_zhaohan/com.java_zhaohan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/finalDemo/finalDemo.iml" filepath="$PROJECT_DIR$/../java_project/finalDemo/finalDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase/javase.iml" filepath="$PROJECT_DIR$/javase/javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/../java_project/staticDemo/staticDemo.iml" />
+    </modules>
+  </component>
+</project>

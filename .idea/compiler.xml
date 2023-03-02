@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itheima_spring_tx_anno" />
+        <module name="springboot_05_mybatis" />
+        <module name="itheima_ssm" />
+        <module name="springboot_04_juint" />
+        <module name="user-service" />
+        <module name="springboot_08_ssmp" />
+        <module name="eureka-server" />
+        <module name="itheima_mybatis_quick (1)" />
+        <module name="itheima_mybatis_quick" />
+        <module name="itheima_spring_mvc" />
+        <module name="itheima_mybatis_dao" />
+        <module name="itheima_mybatis_mapper" />
+        <module name="itheima_mybatis_multi" />
+        <module name="springboot_06_mybatis_plus" />
+        <module name="cookie-demo" />
+        <module name="itheima_spring_exception" />
+        <module name="filter-demo" />
+        <module name="itheima_spring_ioc" />
+        <module name="springboot_ssmp_demo" />
+        <module name="tomcat_demo" />
+        <module name="mybatis_Demo" />
+        <module name="itheima_spring_aop" />
+        <module name="request_responseDemo" />
+        <module name="order-service" />
+        <module name="itheima_spring_ioc_anno" />
+        <module name="itheima_spring_test" />
+        <module name="feign-api" />
+        <module name="spring_14_annotation_third_bean_manager" />
+        <module name="itheima_mybatis_quick (3)" />
+        <module name="tangwenyi_clockSystem" />
+        <module name="springboot_01_04_quickstart" />
+        <module name="web-demo" />
+        <module name="itheima_spring_jdbc" />
+        <module name="springboot_01_01_quickstart" />
+        <module name="springboot_01_03_quickstart" />
+        <module name="itheima_spring_datasource" />
+        <module name="maven_demo" />
+        <module name="itheima_mybatis_config" />
+        <module name="itheima_spring_tx" />
+        <module name="springboot_07_druid" />
+        <module name="itheima_mybatis_quick (2)" />
+        <module name="itheima_mybatis_anno" />
+        <module name="itheima_spring_interceptor" />
+        <module name="springboot_01_02_quickstart" />
+        <module name="springboot_13_configuration" />
+        <module name="springboot_02_base_configuration" />
+        <module name="gateway" />
+        <module name="brand_demo" />
+        <module name="springboot_12_hot_deploy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itheima_spring_ioc_anno1" target="11" />
+      <module name="maven_project" target="1.5" />
+      <module name="Spring" target="11" />
+      <module name="tomcat_demo01" target="1.7" />
+      <module name="tomcat_demo02" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring" options="" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="feign-api" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="order-service" options="-parameters" />
+      <module name="springboot_01_01_quickstart" options="-parameters" />
+      <module name="springboot_01_02_quickstart" options="-parameters" />
+      <module name="springboot_01_04_quickstart" options="-parameters" />
+      <module name="springboot_02_base_configuration" options="-parameters" />
+      <module name="springboot_04_juint" options="-parameters" />
+      <module name="springboot_05_mybatis" options="-parameters" />
+      <module name="springboot_06_mybatis_plus" options="-parameters" />
+      <module name="springboot_07_druid" options="-parameters" />
+      <module name="springboot_08_ssmp" options="-parameters" />
+      <module name="springboot_12_hot_deploy" options="-parameters" />
+      <module name="springboot_13_configuration" options="-parameters" />
+      <module name="springboot_ssmp_demo" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

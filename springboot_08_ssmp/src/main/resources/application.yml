@@ -1,0 +1,29 @@
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/ssm_db?serverTimezone=UTC
+      username: root
+      password: 1234
+
+
+  profiles:
+   active: @profile.active@
+   group:
+        "dev": devDB,devRedis,devMVC
+
+
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: tbl_
+      id-type: auto #配置数据库主键id的自增策略
+  configuration: #开启mybatis-plus运行日志
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+book:
+  type: 计算机理论
+  name: 数据结构与算法
+  description: 程序员开发基础...
+
+
