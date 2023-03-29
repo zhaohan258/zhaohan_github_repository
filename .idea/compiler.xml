@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/springboot_27_bean_init/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
@@ -17,12 +20,15 @@
         <module name="itheima_mybatis_quick (1)" />
         <module name="itheima_mybatis_quick" />
         <module name="itheima_spring_mvc" />
+        <module name="springboot_24_mq" />
         <module name="itheima_mybatis_dao" />
+        <module name="springboot_28_load" />
         <module name="itheima_mybatis_mapper" />
         <module name="itheima_mybatis_multi" />
         <module name="springboot_06_mybatis_plus" />
         <module name="cookie-demo" />
         <module name="itheima_spring_exception" />
+        <module name="springboot_27_bean_init" />
         <module name="filter-demo" />
         <module name="itheima_spring_ioc" />
         <module name="springboot_ssmp_demo" />
@@ -33,6 +39,7 @@
         <module name="order-service" />
         <module name="itheima_spring_ioc_anno" />
         <module name="itheima_spring_test" />
+        <module name="springboot_14_test" />
         <module name="feign-api" />
         <module name="spring_14_annotation_third_bean_manager" />
         <module name="itheima_mybatis_quick (3)" />
@@ -58,17 +65,10 @@
         <module name="springboot_12_hot_deploy" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="itheima_spring_ioc_anno1" target="11" />
-      <module name="maven_project" target="1.5" />
-      <module name="Spring" target="11" />
-      <module name="tomcat_demo01" target="1.7" />
-      <module name="tomcat_demo02" target="1.5" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11" />
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Spring" options="" />
       <module name="eureka-server" options="-parameters" />
       <module name="feign-api" options="-parameters" />
       <module name="gateway" options="-parameters" />
@@ -84,6 +84,8 @@
       <module name="springboot_08_ssmp" options="-parameters" />
       <module name="springboot_12_hot_deploy" options="-parameters" />
       <module name="springboot_13_configuration" options="-parameters" />
+      <module name="springboot_14_test" options="-parameters" />
+      <module name="springboot_24_mq" options="-parameters" />
       <module name="springboot_ssmp_demo" options="-parameters" />
       <module name="user-service" options="-parameters" />
     </option>
