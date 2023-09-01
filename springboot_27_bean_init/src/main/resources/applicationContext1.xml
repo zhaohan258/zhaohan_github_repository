@@ -4,6 +4,6 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 <!--    xml方式声明自己开发的bean-->
-    <bean id="cat" class="com.itheima.bean.domain.Cat"></bean>
+    <bean id="cat" class="com.itheima.bean.Cat"></bean>
 
 </beans>

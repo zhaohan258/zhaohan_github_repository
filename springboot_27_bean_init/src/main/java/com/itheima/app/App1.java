@@ -11,6 +11,6 @@ public class App1 {
         //
 //        ctx.getBean("cat");
         Cat catBean = ctx.getBean(Cat.class);
-
+        System.out.println(ctx);
     }
 }

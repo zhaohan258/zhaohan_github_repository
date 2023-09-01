@@ -37,7 +37,6 @@
         <option value="$PROJECT_DIR$/../Spring/itheima_spring_ioc_anno1/pom.xml" />
         <option value="$PROJECT_DIR$/../tomcat_demo/pom.xml" />
         <option value="$PROJECT_DIR$/../web-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/../tangwenyi_clockSystem/pom.xml" />
         <option value="$PROJECT_DIR$/../request_responseDemo/pom.xml" />
         <option value="$PROJECT_DIR$/../brand_demo/pom.xml" />
         <option value="$PROJECT_DIR$/../cookie-demo/pom.xml" />
@@ -78,6 +77,7 @@
         <option value="$PROJECT_DIR$/springboot_24_mq/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_27_bean_init/pom.xml" />
         <option value="$PROJECT_DIR$/../springboot_28_load/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_29_bean_properties/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

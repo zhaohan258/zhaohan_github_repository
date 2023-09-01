@@ -11,9 +11,9 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Import;
 import org.springframework.context.annotation.ImportResource;
 
-@ComponentScan({"com.itheima.bean","com.itheima.config"})
-@ImportResource({"applicationContext1.xml","applicationContext2.xml"})
-@Import({MyRegistrar.class,MyImportSelector.class,BookServiceImpl.class})
+//@ComponentScan({"com.itheima.bean","com.itheima.config"})
+//@ImportResource({"applicationContext1.xml","applicationContext2.xml"})
+@Import({MyRegistrar.class})
 public class SpringConfig {
 
     @Bean

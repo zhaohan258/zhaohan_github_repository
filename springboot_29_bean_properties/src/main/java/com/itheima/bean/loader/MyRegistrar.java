@@ -1,8 +1,6 @@
 package com.itheima.bean.loader;
 
-import com.itheima.bean.domain.Dog;
-import com.itheima.bean.domain.Mouse;
-import com.itheima.bean.service.impl.BookServiceImpl3;
+import com.itheima.bean.Mouse;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.beans.factory.support.BeanDefinitionBuilder;
 import org.springframework.beans.factory.support.BeanDefinitionRegistry;
